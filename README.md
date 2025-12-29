@@ -13,7 +13,7 @@
 3. JavaScript
 
 ##Live Demo
--> 
+-> https://shaikhaaftab2017-lgtm.github.io/BMI-Calculator/
 
 # Author 
 Aaftab Alam
